@@ -1,0 +1,15 @@
+# Ignore in all subfolders (frontend, backend, dashboard)
+node_modules/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing and Misc
+coverage/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
